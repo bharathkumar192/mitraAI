@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095203254006",
+    "project_id": "invue-41d17",
+    "storage_bucket": "invue-41d17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095203254006:android:07ade63d5c8ee8d4da86d7",
+        "android_client_info": {
+          "package_name": "com.example.invue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJbyjYqyxefqyd-vK4JIDK4b2ptazRTx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
